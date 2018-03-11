@@ -1,0 +1,18 @@
+{
+  "name": "learn-ngrok",
+  "version": "1.0.0",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  },
+  "engines": {
+    "node": "8.10.x"
+  },
+  "scripts": {
+    "start": "node_modules/.bin/live-server --port=4000"
+  },
+  "license": "GPL-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dwyl/learn-ngrok.git"
+  }
+}
