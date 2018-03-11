@@ -40,8 +40,9 @@ on a **`public` address** ("URL")_.
 ## _Who?_
 
 Anyone working on a Web App/Site
-and needs a quick/easy way to _show_ or _test_ it <br >
-without "_deploying_" it. e.g: you are _actively_ developing something
+and needs a quick/easy way to _show_ or _test_ it
+without "_deploying_" it. <br >
+e.g: you are _actively_ developing something
 and deploying it to
 [**Heroku**](https://github.com/dwyl/learn-heroku)
 would be _too time consuming_.
